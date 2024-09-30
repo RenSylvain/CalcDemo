@@ -1,0 +1,23 @@
+{
+  "name": "bendercalculator",
+  "version": "1.0.0",
+  "description": "website project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenSylvain/BenderCalculator.git"
+  },
+  "keywords": [
+    "DAO",
+    "Codecademy"
+  ],
+  "author": "Rene-Lee Sylvain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenSylvain/BenderCalculator/issues"
+  },
+  "homepage": "https://github.com/RenSylvain/BenderCalculator#readme"
+}
